@@ -1,16 +1,10 @@
-# pixelmator
+# Pixelmator
 
-A new Flutter project.
+A pixel based animations creator for unique content powered by Firestore.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/user-attachments/assets/a035e17d-ebbd-4787-b649-2e24c3714a0d
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/user-attachments/assets/b7bd57a1-1ba3-418a-94d3-65c1f0d2c762
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
